@@ -5,3 +5,4 @@ This is the first application for
 by [Michael Hartl](http://michaelhartl.com/).
 
 
+I'm using it as a test project for experimenting with Github.
